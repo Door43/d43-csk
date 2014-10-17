@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[csk:home|Door43 (csk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-csk|d43-csk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-csk/archive/master.zip|d43-csk.zip]]
+
+**Recent Changes**
+{{changes>ns = csk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/csk|Ethnologue data]]
+
